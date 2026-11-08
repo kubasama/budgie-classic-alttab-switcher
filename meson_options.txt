@@ -1,0 +1,2 @@
+option('user_install', type: 'boolean', value: false,
+  description: 'Put the autostart entry in ~/.config/autostart (for --prefix=$HOME/.local)')

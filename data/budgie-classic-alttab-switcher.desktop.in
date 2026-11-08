@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Classic Alt+Tab Switcher
+Comment=Switch windows with Alt+Tab using a grid of app icons
+Exec=@BINDIR@/budgie-classic-alttab-switcher
+Icon=preferences-system-windows
+NoDisplay=true
+OnlyShowIn=Budgie;
+X-GNOME-Autostart-enabled=true

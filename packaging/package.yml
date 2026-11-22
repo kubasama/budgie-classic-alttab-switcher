@@ -1,8 +1,8 @@
 name       : budgie-classic-alttab-switcher
-version    : 0.1.0
+version    : 0.1.1
 release    : 1
 source     :
-    - https://github.com/kubasama/budgie-classic-alttab-switcher/archive/refs/tags/v0.1.0.tar.gz : SHA256_OF_THE_RELEASE_TARBALL
+    - https://github.com/kubasama/budgie-classic-alttab-switcher/archive/refs/tags/v0.1.1.tar.gz : SHA256_OF_THE_RELEASE_TARBALL
 homepage   : https://github.com/kubasama/budgie-classic-alttab-switcher
 license    : GPL-2.0-or-later
 component  : desktop.budgie
